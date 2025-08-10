@@ -1,7 +1,5 @@
-# Ram Hemareddy AWS CICD Pipeline Code Deployment to AWS EC2 Instance
 
-
-<b>User Data for Dependencies installations for AMAZON Linux 2:-</b>
+<b>User Data for Dependencies installations for AMAZON Linux ec2:-</b>
 
 #!/bin/bash<br />
 sudo yum -y update<br />
